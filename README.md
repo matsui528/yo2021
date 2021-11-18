@@ -3,15 +3,14 @@
 GitHubのFork/PRの練習兼アンケートです。以下に自由に追記してください。これは公開リポジトリであり、どのアカウントが何を書いたかもわかるため、誹謗中傷は控えてください。
 
 ## 講義で今後も続けていってほしいところ
-- XXをYYするところ
-- AAのBB
+- 他の授業の講義資料を紹介するところ
+- ポインタのチートシート
 
 ## 講義で改善してほしいところ
-- AAをBBするところ
-- 言葉遣いが嫌だ
+- Week3-2
 
 # 他の講義で、見やすかったオンライン/ハイブリッド講義形式
-- XX先生のYYの講義は、AAがBBで見やすかった
+- 古関先生の機器学の講義は、配布スライドとどうがで見やすかった
 
 # 自分の環境自慢
 - [Intel NUC](https://www.intel.co.jp/content/www/jp/ja/products/details/nuc.html) + Win10 + WSL2 + Windows Terminal. 開発はVSCode + Remote WSL. Python環境は直Anaconda. 最近フルクラウド環境のgithub codespacesが気になっている。身に危険が差し迫ったときはemacs
@@ -26,13 +25,14 @@ GitHubのFork/PRの練習兼アンケートです。以下に自由に追記し�
 - XXXのイベントがYYYであるのでみんな来てね！
 
 # 趣味
-- Xが好き
+- クリッカーゲームが好き
 
 # おすすめ本・漫画・アニメ・ゲームなど
-- 今季はXが良い
+- 今季はAが良い
 
 # プログラミング談義
-- 最近読んだ[おっさんのためのModernC++入門ガイド(草稿)](https://dec9ue.hatenablog.com/entry/2021/03/13/124818)が勉強になった
+- [苦しんで覚えるC言語](https://9cguide.appspot.com/)が勉強になった
 
 # その他雑談なんでも
-- Surface Pro 8 LTEが欲しい！
+- タッチパネルのPCが欲しい！
+- Adobeが欲しい！
