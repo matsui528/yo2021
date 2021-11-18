@@ -35,7 +35,9 @@ GitHubのFork/PRの練習兼アンケートです。以下に自由に追記し�
 - [Intel NUC](https://www.intel.co.jp/content/www/jp/ja/products/details/nuc.html) + Win10 + WSL2 + Windows Terminal. 開発はVSCode + Remote WSL. Python環境は直Anaconda. 最近フルクラウド環境のgithub codespacesが気になっている。身に危険が差し迫ったときはemacs
 - Ryzen3700+GTX1660Super or SurfacePro 7 + Win10 + WSL2 + Windows Terminal.逆張りで、Windowsで頑張りたいと思ってたら、WSLのおかげでむしろ順張り（？）になりました。
 - 環境何もわかりません...
+- Vimを使いましょう．
 - [ここまんま](https://ntk-ta01.hatenablog.com/entry/2020/09/09/181155)
+
 
 # 本郷駒場グルメ情報
 - 家家家
