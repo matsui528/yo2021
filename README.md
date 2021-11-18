@@ -5,6 +5,7 @@ GitHubのFork/PRの練習兼アンケートです。以下に自由に追記し�
 ## 講義で今後も続けていってほしいところ
 - XXをYYするところ
 - AAのBB
+- 講義資料が素晴らしいです! あと雑談が楽しい!
 
 ## 講義で改善してほしいところ
 - AAをBBするところ
@@ -15,6 +16,7 @@ GitHubのFork/PRの練習兼アンケートです。以下に自由に追記し�
 
 # 自分の環境自慢
 - [Intel NUC](https://www.intel.co.jp/content/www/jp/ja/products/details/nuc.html) + Win10 + WSL2 + Windows Terminal. 開発はVSCode + Remote WSL. Python環境は直Anaconda. 最近フルクラウド環境のgithub codespacesが気になっている。身に危険が差し迫ったときはemacs
+- 自宅では自作Windows機を使っているのですが、グラボがありません... 誰か下さい（自慢?）
 
 # 本郷駒場グルメ情報
 - 家家家
@@ -30,6 +32,7 @@ GitHubのFork/PRの練習兼アンケートです。以下に自由に追記し�
 
 # おすすめ本・漫画・アニメ・ゲームなど
 - 今季はXが良い
+- Asphalt 9 やってる人いません?
 
 # プログラミング談義
 - 最近読んだ[おっさんのためのModernC++入門ガイド(草稿)](https://dec9ue.hatenablog.com/entry/2021/03/13/124818)が勉強になった
